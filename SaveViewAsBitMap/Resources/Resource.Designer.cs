@@ -66,6 +66,9 @@ namespace SaveViewAsBitMap
 			// aapt resource value: 0x7f050003
 			public const int imageView1 = 2131034115;
 			
+			// aapt resource value: 0x7f050004
+			public const int imageView2 = 2131034116;
+			
 			// aapt resource value: 0x7f050000
 			public const int myLinearLayout = 2131034112;
 			
